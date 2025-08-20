@@ -119,6 +119,3 @@ La API usa **Spring Security** para la autenticación y autorización. Los usuar
 4. Sube los cambios a tu fork (`git push origin feature/nueva-funcionalidad`).
 5. Abre un Pull Request.
 
-## 📄 Licencia
-
-Este proyecto está licenciado bajo la **Licencia MIT**. Consulta el archivo `LICENSE` para obtener más detalles.
